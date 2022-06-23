@@ -1,5 +1,5 @@
 <? php 
   
- <h1> This is the example of my first file</h1>
+ <h1> Ini rencana aplikasi saya</h1>
   
 ?>
